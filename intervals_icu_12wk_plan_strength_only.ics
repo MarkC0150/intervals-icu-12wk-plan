@@ -1,0 +1,390 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//IntervalsICU Planner//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:b146a15d-4912-4b0a-8631-adbb21d71acc@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20250901T070000
+DTEND;TZID=Europe/London:20250901T080000
+DESCRIPTION:Week 1 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:5f5dedd4-67d0-41a1-afc2-7198f167406a@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20250904T070000
+DTEND;TZID=Europe/London:20250904T080000
+DESCRIPTION:Week 1 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:cd23ec65-6952-4a99-b373-81ddb72a132c@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20250905T070000
+DTEND;TZID=Europe/London:20250905T080000
+DESCRIPTION:Week 1 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e807c2-42fe-4a6f-bf65-5e94cefb4a66@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20250906T080000
+DTEND;TZID=Europe/London:20250906T090000
+DESCRIPTION:Week 1 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:67f89e11-94a7-4838-b7df-b89555bff2a5@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20250908T070000
+DTEND;TZID=Europe/London:20250908T080000
+DESCRIPTION:Week 2 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:baadcf1c-5d13-4185-aa25-41ba9bba6d68@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20250911T070000
+DTEND;TZID=Europe/London:20250911T080000
+DESCRIPTION:Week 2 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:fbacdd79-2644-4a0a-8102-b6c18a08631a@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20250912T070000
+DTEND;TZID=Europe/London:20250912T080000
+DESCRIPTION:Week 2 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5e0ee6-6379-4771-bd7c-a622f7ade07d@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20250913T080000
+DTEND;TZID=Europe/London:20250913T090000
+DESCRIPTION:Week 2 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:1dcd278f-90ff-47d7-b86c-6e9870bca7c6@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20250915T070000
+DTEND;TZID=Europe/London:20250915T080000
+DESCRIPTION:Week 3 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:1eae0119-e2b4-43a0-ae7f-7763c6003069@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20250918T070000
+DTEND;TZID=Europe/London:20250918T080000
+DESCRIPTION:Week 3 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:b5d4c039-5c7e-4d48-b384-74701a8168e5@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20250919T070000
+DTEND;TZID=Europe/London:20250919T080000
+DESCRIPTION:Week 3 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb9a1761-c924-4879-9c33-036d0eda9132@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20250920T080000
+DTEND;TZID=Europe/London:20250920T090000
+DESCRIPTION:Week 3 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:2375b14a-4f2e-40b5-9ed7-19a5ac9706ce@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20250922T070000
+DTEND;TZID=Europe/London:20250922T080000
+DESCRIPTION:Week 4 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:0c515246-a555-4b3d-bcdf-9846640a5b4d@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20250925T070000
+DTEND;TZID=Europe/London:20250925T080000
+DESCRIPTION:Week 4 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:ab16fc86-9ec5-4f3a-8b92-b66fb5bc7b9c@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20250926T070000
+DTEND;TZID=Europe/London:20250926T080000
+DESCRIPTION:Week 4 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:708f79dc-1bf4-4521-9e67-79e9656588d1@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20250927T080000
+DTEND;TZID=Europe/London:20250927T090000
+DESCRIPTION:Week 4 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 1–4 (Base Hypertrophy): Strength 8–12 reps\, add reps weekly\; increase weight when max reps hit. Rest 60–90s accessories\, 90–120s compounds.
+END:VEVENT
+BEGIN:VEVENT
+UID:1d277c9d-0df6-4a1a-95f8-3b0765c0d189@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20250929T070000
+DTEND;TZID=Europe/London:20250929T080000
+DESCRIPTION:Week 5 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:af3ffe2b-679f-44f4-8b80-32ff2b801a25@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20251002T070000
+DTEND;TZID=Europe/London:20251002T080000
+DESCRIPTION:Week 5 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:62876c7b-ed13-4004-86a8-6ca51d8ab40c@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20251003T070000
+DTEND;TZID=Europe/London:20251003T080000
+DESCRIPTION:Week 5 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:57719fcf-de2b-45df-8ac4-ce91bf62124f@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20251004T080000
+DTEND;TZID=Europe/London:20251004T090000
+DESCRIPTION:Week 5 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:dfc89302-16ea-4dac-9052-5b79b00122e0@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20251006T070000
+DTEND;TZID=Europe/London:20251006T080000
+DESCRIPTION:Week 6 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:469831b8-09f7-40a5-92e7-998f9fc5bb27@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20251009T070000
+DTEND;TZID=Europe/London:20251009T080000
+DESCRIPTION:Week 6 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:31f7b6ad-1a47-4281-84c6-5dd2704223e3@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20251010T070000
+DTEND;TZID=Europe/London:20251010T080000
+DESCRIPTION:Week 6 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:015b8880-35f1-4dd9-bd4d-3638aad0004b@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20251011T080000
+DTEND;TZID=Europe/London:20251011T090000
+DESCRIPTION:Week 6 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:783f4735-6873-4e94-9ff4-8557c11df2ef@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20251013T070000
+DTEND;TZID=Europe/London:20251013T080000
+DESCRIPTION:Week 7 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:de9c0ec3-e11a-4f71-8ece-e418bba3bb61@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20251016T070000
+DTEND;TZID=Europe/London:20251016T080000
+DESCRIPTION:Week 7 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:bb81d0ad-9ef0-434e-8dab-432c94d1d7a2@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20251017T070000
+DTEND;TZID=Europe/London:20251017T080000
+DESCRIPTION:Week 7 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:226c29ee-a01a-4cf0-b4a2-a0e57253f57c@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20251018T080000
+DTEND;TZID=Europe/London:20251018T090000
+DESCRIPTION:Week 7 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:49f63954-4c12-4a99-b07e-7660f0faeccf@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20251020T070000
+DTEND;TZID=Europe/London:20251020T080000
+DESCRIPTION:Week 8 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:5d8247b0-d32c-4ca5-b86a-a0e157779e76@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20251023T070000
+DTEND;TZID=Europe/London:20251023T080000
+DESCRIPTION:Week 8 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:becb808d-b20a-4c7f-97dd-cae5c09d4b44@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20251024T070000
+DTEND;TZID=Europe/London:20251024T080000
+DESCRIPTION:Week 8 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:1147f96a-7834-487b-b30f-4fc832630439@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20251025T080000
+DTEND;TZID=Europe/London:20251025T090000
+DESCRIPTION:Week 8 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 5–8 (Strength Bias): Compounds 6–8 reps heavier\, accessories 8–12 reps. Rest 2–3 min compounds\, 60–90s accessories.
+END:VEVENT
+BEGIN:VEVENT
+UID:20522b26-cd14-4e68-857a-213c4bd1ed78@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20251027T070000
+DTEND;TZID=Europe/London:20251027T080000
+DESCRIPTION:Week 9 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:9b40d4f5-8c88-48e8-b3f4-22249fa44d94@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20251030T070000
+DTEND;TZID=Europe/London:20251030T080000
+DESCRIPTION:Week 9 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:8d1d31b1-2d0f-4723-93d4-9d780851eb90@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20251031T070000
+DTEND;TZID=Europe/London:20251031T080000
+DESCRIPTION:Week 9 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:6806378d-7a08-47bd-8e1b-8781416ba2a2@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20251101T080000
+DTEND;TZID=Europe/London:20251101T090000
+DESCRIPTION:Week 9 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:12497e59-d82b-49ec-b7e9-55f55cfa5c04@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20251103T070000
+DTEND;TZID=Europe/London:20251103T080000
+DESCRIPTION:Week 10 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:ccfa8fbf-e541-4976-a98e-3151cdebce02@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20251106T070000
+DTEND;TZID=Europe/London:20251106T080000
+DESCRIPTION:Week 10 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:ce62de4e-34d6-422b-b81a-6dcdb67f7176@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20251107T070000
+DTEND;TZID=Europe/London:20251107T080000
+DESCRIPTION:Week 10 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb123f0-8da4-4f1d-8bb7-07f76ba49141@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20251108T080000
+DTEND;TZID=Europe/London:20251108T090000
+DESCRIPTION:Week 10 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:57379065-7498-45c2-8770-7d0da77cb5bf@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20251110T070000
+DTEND;TZID=Europe/London:20251110T080000
+DESCRIPTION:Week 11 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:aaced195-cf6d-4448-a2eb-8a0007bfacc0@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20251113T070000
+DTEND;TZID=Europe/London:20251113T080000
+DESCRIPTION:Week 11 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:50ef89c8-759a-40d7-8bb2-e380e9d6c1d3@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20251114T070000
+DTEND;TZID=Europe/London:20251114T080000
+DESCRIPTION:Week 11 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:c9dda0ab-f6da-42db-b168-62a65d29a175@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20251115T080000
+DTEND;TZID=Europe/London:20251115T090000
+DESCRIPTION:Week 11 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:180d4d9e-e960-4bd3-ae49-2b57e9db397b@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Push
+DTSTART;TZID=Europe/London:20251117T070000
+DTEND;TZID=Europe/London:20251117T080000
+DESCRIPTION:Week 12 of 12. Barbell Bench Press 4 sets\; Incline DB Press 3\; Overhead Press 3\; Cable Lateral Raise 3\; Skull Crushers 3\; Hanging Leg Raises 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:5eb17e69-5e7b-4ca0-8e6c-afd7b9442720@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Lower Body + Core
+DTSTART;TZID=Europe/London:20251120T070000
+DTEND;TZID=Europe/London:20251120T080000
+DESCRIPTION:Week 12 of 12. Back Squat 4 sets\; Romanian Deadlift 3\; Walking Lunges 3/leg\; Standing Calf Raise 3\; Cable Woodchoppers 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:c0bc4742-c019-4964-9085-665798b0f447@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Pull
+DTSTART;TZID=Europe/London:20251121T070000
+DTEND;TZID=Europe/London:20251121T080000
+DESCRIPTION:Week 12 of 12. Barbell Row 4 sets\; Pull-Ups 3\; Single-Arm DB Row 3/side\; Face Pulls 3\; EZ Bar Curl 3\; Ab Rollouts 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9e77e5-af13-444b-b011-abf2d3051f0b@intervals-icu-planner
+DTSTAMP:20250828T200141Z
+SUMMARY:Strength – Upper Hybrid (Aesthetic)
+DTSTART;TZID=Europe/London:20251122T080000
+DTEND;TZID=Europe/London:20251122T090000
+DESCRIPTION:Week 12 of 12. Incline DB Press 3\; DB Row 3\; Overhead Press 3\; Cable Lateral Raise 3\; Superset: DB Curls + Skull Crushers 3 each\; Weighted Plank 3.\n\nProgression: Weeks 9–12 (Overload & Volume): Add 1 extra set on main lifts\, optional intensity technique on final set. Accessories 10–15 reps.
+END:VEVENT
+END:VCALENDAR
